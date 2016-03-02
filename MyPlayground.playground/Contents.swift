@@ -51,3 +51,7 @@ var s3=s.substringWithRange(range)
 print(s1)//67890
 print(s2)//1234
 print(s3)//5
+UInt.max
+UInt.min
+
+
